@@ -5,7 +5,12 @@
       "ProjectGuid": "48d0d721-0603-45bc-88a3-099f5185739d",
       "DisplayName": "ClassLibrary1",
       "ColorIndex": 0
+    },
+    "dbae24ed-b953-44a1-9989-90d064f1eddd": {
+      "ProjectGuid": "dbae24ed-b953-44a1-9989-90d064f1eddd",
+      "DisplayName": "doc",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

@@ -10,7 +10,12 @@
       "ProjectGuid": "dbae24ed-b953-44a1-9989-90d064f1eddd",
       "DisplayName": "doc",
       "ColorIndex": 1
+    },
+    "15c72124-4f19-485f-8ac5-d930228851f3": {
+      "ProjectGuid": "15c72124-4f19-485f-8ac5-d930228851f3",
+      "DisplayName": "WebApp1",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

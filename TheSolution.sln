@@ -10,9 +10,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{DBAE24ED-B95
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{94691CA0-2769-49B5-8091-0E0388E419D2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{84A623C8-61B3-438A-AB3C-52EBF043A486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aspnet", "aspnet", "{3320E69C-A2E8-48A3-83D0-A313DDA1E534}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3320E69C-A2E8-48A3-83D0-A313DDA1E534} = {84A623C8-61B3-438A-AB3C-52EBF043A486}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2C0BE1C4-4255-43F7-BE47-9886179B3EBB}
